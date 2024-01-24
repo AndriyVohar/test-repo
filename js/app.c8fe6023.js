@@ -115,7 +115,7 @@
             (0, r.iD)("div", null, [(0, r.Wm)(s), (0, r.Wm)(c), (0, r.Wm)(l)])
           );
         }
-        var i = o.p + "/img/logo_dormitory_text.272700fd.svg";
+        var i = o.p + "img/logo_dormitory_text.272700fd.svg";
         const s = (e) => (
             (0, r.dD)("data-v-33dbf863"), (e = e()), (0, r.Cn)(), e
           ),
@@ -939,7 +939,7 @@
         t.Z = o;
       },
       3651: function (e, t, o) {
-        e.exports = o.p + "./img/browse.94b3f240.svg";
+        e.exports = o.p + "test-repo/img/browse.94b3f240.svg";
       },
       4729: function (e, t, o) {
         e.exports = o.p + "./img/info.1e400205.svg";
