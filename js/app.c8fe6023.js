@@ -115,7 +115,7 @@
             (0, r.iD)("div", null, [(0, r.Wm)(s), (0, r.Wm)(c), (0, r.Wm)(l)])
           );
         }
-        var i = o.p + "./img/logo_dormitory_text.272700fd.svg";
+        var i = o.p + "/img/logo_dormitory_text.272700fd.svg";
         const s = (e) => (
             (0, r.dD)("data-v-33dbf863"), (e = e()), (0, r.Cn)(), e
           ),
